@@ -1,7 +1,7 @@
 # Presistance of Vision Spherical Display with Bluetooth Control
 A spherical display with Bluetooth control through a custom-made app.
 
-**Demonstration Video:** 
+**Demonstration Video:** https://youtu.be/0HxUUZKC2MY
 
 **How it works:**
 This display uses the presistance of vision phenomenon where a moving point light source presists in our vision and is precieved to be a continuos light source.
