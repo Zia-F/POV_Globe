@@ -1,7 +1,7 @@
-# Persistance of Vision Spherical Display with Bluetooth Control
+# Persistence of Vision Spherical Display with Bluetooth Control
 A spherical display with Bluetooth control through a custom-made app.
 
-**Demonstration Video:** https://youtu.be/0HxUUZKC2MY
+**Demonstration Video:** 
 
 **How it works:**
 This display uses the persistance of vision phenomenon where a moving point light source presists in our vision and is precieved to be a continuos light source.
