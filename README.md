@@ -1,10 +1,10 @@
 # Persistence of Vision Spherical Display with Bluetooth Control
 A spherical display with Bluetooth control through a custom-made app.
 
-**Demonstration Video:** 
+**Demonstration Video:** https://youtu.be/LuZrvqpimK4 
 
 **How it works:**
-This display uses the persistance of vision phenomenon where a moving point light source presists in our vision and is precieved to be a continuos light source.
+This display uses the persistence of vision phenomenon where a moving point light source presists in our vision and is precieved to be a continuos light source.
 In this project, a strip of 46 LEDS are attached onto a 3D printed circle which is spun around to form a sphere. The strip of LEDs is controlled by an Arduino Nano which continuously writes the correct color onto each LED to form an image.
 
 **Features:**
