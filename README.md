@@ -30,7 +30,7 @@ This device showcases images which can be used for advertisement and entertainme
  - Resistors
 
 
-**Info on Attached Files:**
+**Attached Files:**
 - 3D Model: A 3D model of the globe structure made in SketchUp.
 - Images: Images of the hardware, globe, android app, and windows application.
 - POV_Globe_Program: The Arduino code which drives the Globe Display.
