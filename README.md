@@ -35,3 +35,5 @@ This device showcases images which can be used for advertisement and entertainme
 - Images: Images of the hardware, globe, android app, and windows application.
 - POV_Globe_Program: The Arduino code which drives the Globe Display.
 - Globe_BT_Controller: The android app apk which controls the Globe Display wirelessly through Bluetooth (Optimized for Samsung Galaxy Note 8).
+
+For Image Convertion Software Visit: https://github.com/Zia-F/Image-Converter-for-POV-Globe.git 
