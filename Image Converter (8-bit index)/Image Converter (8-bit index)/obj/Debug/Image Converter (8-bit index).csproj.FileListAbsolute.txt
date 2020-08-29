@@ -1,3 +1,0 @@
-C:\Users\Zia\Documents\GitHub\3D-Bluetooth-Globe-Display\Image Converter (8-bit index)\Image Converter (8-bit index)\bin\Debug\Image Converter (8-bit index).exe.config
-C:\Users\Zia\Documents\GitHub\3D-Bluetooth-Globe-Display\Image Converter (8-bit index)\Image Converter (8-bit index)\obj\Debug\Image Converter (8-bit index).exe
-C:\Users\Zia\Documents\GitHub\3D-Bluetooth-Globe-Display\Image Converter (8-bit index)\Image Converter (8-bit index)\obj\Debug\Image Converter (8-bit index).pdb

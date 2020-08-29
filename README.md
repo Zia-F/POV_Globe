@@ -29,7 +29,6 @@ In this project, a strip of 46 LEDS are attached onto a 3D printed circle which 
 
 **Info on Attached Files:**
 - 3D Model: A 3D model of the globe structure made in SketchUp.
-- Image Converter: A Wndows Forms application made in Visual Studio C#. It compresses images to be displayed onto the globe. It also outputs an array in C++ format with all of the pixel info which is used in the Arduino program.
 - Images: Images of the hardware, globe, android app, and windows application.
 - POV_Globe_Program: The Arduino code which drives the Globe Display.
 - Globe_BT_Controller: The android app apk which controls the Globe Display wirelessly through Bluetooth (Optimized for Samsung Galaxy Note 8).
