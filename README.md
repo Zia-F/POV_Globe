@@ -7,6 +7,9 @@ A spherical display with Bluetooth control through a custom-made app.
 This display uses the persistence of vision phenomenon where a moving point light source presists in our vision and is precieved to be a continuos light source.
 In this project, a strip of 46 LEDS are attached onto a 3D printed circle which is spun around to form a sphere. The strip of LEDs is controlled by an Arduino Nano which continuously writes the correct color onto each LED to form an image.
 
+**Potential Use Case:**
+This device showcases images which can be used for advertisement and entertainment purposes. Since a technology in this form is not yet well-known and adapted in the real world, it is quite an eye catcher. This means companies can easily gain people's curiosity by advertising their products on this display.
+
 **Features:**
  - Bluetooth Control through app
  - Display any color
