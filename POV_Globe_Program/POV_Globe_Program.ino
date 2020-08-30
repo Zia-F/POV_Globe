@@ -312,7 +312,7 @@ void shiftColumns()
   columnOrder[sizeof(columnOrder)-1] = tempColumn;    //assign remembered value to last element
 }
 
-/************************************Animations*******************************************************/
+/*********Animations - Source: https://www.tweaking4all.com/hardware/arduino/arduino-all-ledstrip-effects-in-one/ *******************************************************/
 //Chase
 void chase(int SpeedDelay){
   static uint8_t hue = 0;
